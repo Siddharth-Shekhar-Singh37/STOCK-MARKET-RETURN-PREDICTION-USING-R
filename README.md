@@ -2,6 +2,10 @@
 
 > **Forecasting S&P 500 & FTSE All-Share indices across 30 years of market data using five time series models — evaluated across three economic eras including the 2008 financial crisis and COVID-19 onset**
 
+[![View Live Analysis](https://img.shields.io/badge/📊%20View%20Full%20Rendered%20Analysis-Live%20Report-2ea44f?style=for-the-badge)](https://siddharth-shekhar-singh37.github.io/STOCK-MARKET-RETURN-PREDICTION-USING-R/)
+[![Language](https://img.shields.io/badge/Language-R-276DC3?style=for-the-badge&logo=r)](https://www.r-project.org/)
+[![Models](https://img.shields.io/badge/Models-ARIMA%20%7C%20SES%20%7C%20STL%20%7C%20MA-orange?style=for-the-badge)](https://siddharth-shekhar-singh37.github.io/STOCK-MARKET-RETURN-PREDICTION-USING-R/)
+
 ---
 
 ## 🔍 Project Overview
